@@ -69,13 +69,14 @@ GEM
 
 PLATFORMS
   x86_64-darwin-21
+  x86_64-darwin-22
 
 DEPENDENCIES
   jekyll
   just-the-docs
 
 RUBY VERSION
-   ruby 2.7.4p191
+   ruby 2.7.7p221
 
 BUNDLED WITH
-   2.3.21
+   2.3.26

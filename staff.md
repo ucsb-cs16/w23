@@ -9,7 +9,7 @@ description: A listing of the course staff.
 
 The course staff includes the instructor, graduate teaching assistants (TAs) and undergraduate learning assistants (LAs).
 
-If you want to contact us, please use Piazza rather than email or other means of communication; this helps us:
+If you want to contact us, please use [Piazza](https://piazza.com/ucsb/winter2023/cmpsc16) rather than email or other means of communication; this helps us:
 
 * keep track of whether your query has been answered
 * better share the workload to answer your questions more quickly

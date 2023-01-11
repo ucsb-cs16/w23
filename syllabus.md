@@ -85,18 +85,11 @@ Letter Grades:
 <p>Finally—note that just as in a math class, everything we do builds on all the work that came before. So, <em>everything</em> is <em>cumulative</em>—so, you can't afford to miss any classes unless absolutely necessary. Miss two lectures in a 10-week two-lecture per week course, and you've already skipped exactly 10% of the course&mdash;it wouldn't be surprising if your performance (i.e. final grade) in the course dipped by a similar amount.</p>
 
 
-# Schedule <a name="schedule"></a>
-
-For office hours please see [the Staff  Page](/f21/info/staff/).
-
-For hw, lab and exam schedule, please check the [assignment calendar](/f21/info/calendar/).
-
-
 # Resources <a name="resources"></a>
 
 ## Required Resources
 
-The zyBook for this course is required.  Information on signing up was distributed via Gauchospace, and appears on Homework [H00](https://ucsb-cs16.github.io/f21/hwk/h00/)
+The zyBook for this course is required.  Information can be found at the [textbook](/w23/textbook) link in the menu.
 
 # What this course is about <a name="about"></a>
 

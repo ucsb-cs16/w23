@@ -2,7 +2,7 @@
 name: Your Name
 role: Teaching Assistant / Undergraduate Learning Assistant
 pronouns: he/him
-photo: ryan_he.jpeg
+photo: ryan_he.jpg
 ---
 
 Hello everyone! My name is Ryan He and I am a 2nd year undergrad student. I am currently a part of the Early Research Scholars Program (ERSP) where I am currently working with Prof. William Wang.

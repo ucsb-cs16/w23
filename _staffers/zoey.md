@@ -2,7 +2,7 @@
 name: Zeyu(Zoey) Wang
 role: Teaching Assistant
 pronouns: she/her
-photo: 404.png
+photo: Zeyu_Wang.jpg
 ---
 
 Hi, everyone! I am a first-year master's student in the CS department. My one-year work experience as a software development engineer has given me hands-on experience in developing and maintaining mobile applications. 

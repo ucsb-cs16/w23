@@ -1,6 +1,6 @@
 ---
 title: Finals Week
-topic: Final Exams
+topic: ""
 ---
 Sun, Mar 19
 : [](#)

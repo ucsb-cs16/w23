@@ -12,7 +12,7 @@ Mon, Jan 16
 
 Tue, Jan 17
 : 02:00pm **Class**{: .label .label-purple }
-: **11:59pm**  ⏰  Due: **PA02**{: .label .label-orange }, **CA02**{: .label .label-blue }
+: **11:59pm**  ⏰  Due: **PA01**{: .label .label-orange }, **CA01**{: .label .label-blue }
 : **11:59pm**  ⏰  Due: **LA01**{: .label .label-green }
 
 

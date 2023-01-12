@@ -30,6 +30,7 @@ gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into t
 
 # Collections for website data
 collections:
+  modules:
   staffers:
     permalink: "/:path/"
     output: true
@@ -37,8 +38,15 @@ collections:
 defaults:
   - scope:
       path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
       type: staffers
     values:
       layout: staffer
       subpath: '/assets/images/'
  
+
+

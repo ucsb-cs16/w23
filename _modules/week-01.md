@@ -10,7 +10,7 @@ Mon, Jan 9
 
 Tue, Jan 10
 : 02:00pm **Class**{: .label .label-purple }
-: Start: **PA02**{: .label .label-orange }, **CA02**{: .label .label-blue }
+: Start: **PA01**{: .label .label-orange }, **CA01**{: .label .label-blue }
 
 Wed, Jan 11
 : **Lab sections**{: .label .label-purple }

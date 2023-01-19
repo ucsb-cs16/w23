@@ -1,6 +1,6 @@
 ---
 name: Your Name
-role: Teaching Assistant / Undergraduate Learning Assistant
+role: Undergraduate Learning Assistant
 pronouns: he/him
 photo: ryan_he.jpg
 ---

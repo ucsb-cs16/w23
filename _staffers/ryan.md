@@ -1,5 +1,5 @@
 ---
-name: Your Name
+name: Ryan He
 role: Undergraduate Learning Assistant
 pronouns: he/him
 photo: ryan_he.jpg

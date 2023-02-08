@@ -34,6 +34,9 @@ collections:
   staffers:
     permalink: "/:path/"
     output: true
+  labs:
+    permalink: "/labs/:path/"
+    output: true
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -41,6 +44,10 @@ defaults:
       type: modules
     values:
       layout: module
+  - scope:
+      type: labs
+    values:
+      layout: default
   - scope:
       path: ''
       type: staffers

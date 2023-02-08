@@ -56,20 +56,11 @@ Once you follow the instructions to set your password, you should have access to
 
 If you don't have `CMPSC 16` and `lab00` on Gradescope, please contact the staff for assistance.
 
-## Step 5: Set up git and ssh keys on CSIL
-
-There are two pieces of "one time setup" that you need to do in order
-to configure your CSIL account to work with git/github:
-
-* <https://ucsb-cs16.github.io/topics/git_csil_configuration>
-* <https://ucsb-cs16.github.io/topics/github_ssh_keys>
-
-
 That's it for preliminaries!   If everything above is sorted, we're ready to get started.
 
 # Part 2: Clone a github repo, add a simple C++ program, submit on Gradescope
 
-## Step 6: Open a Terminal on CSIL 
+## Step 5: Open a Terminal on CSIL 
 
 In this assignment, we'll be working on your CSIL/ECI/CoE to:
 * clone a GitHub repo
@@ -121,6 +112,18 @@ This should show the name of one of the virtual machines such as `csilvm-01.cs.u
 
 Note: While it isn't required for this lab, if you are interested in running programs that use graphics, you can use something called
 the Remote Desktop Protcol (RDP), which is explained in [this article](https://ucsb-engr.atlassian.net/wiki/spaces/EPK/pages/602046589/Remote+Access+to+ECI+Computing+Labs).   But I suggest that you skip over that for now, and just continue with the rest of this lab.  We'll return to RDP as and when it's needed for something in this course.
+
+
+## Step 6: Set up git and ssh keys on CSIL
+
+There are two pieces of "one time setup" that you need to do in order
+to configure your CSIL account to work with git/github:
+
+* <https://ucsb-cs16.github.io/topics/git_csil_configuration>
+* <https://ucsb-cs16.github.io/topics/github_ssh_keys>
+
+You should only need to do this once (not even once per course, but once for all time for your CSIL account.)
+
 
 ## Step 7: Create cs16 directory
 

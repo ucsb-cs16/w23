@@ -296,7 +296,7 @@ To create or make changes to a file (let's say it's called "filename.cpp"), you'
 ## How do you quit vim?
 
 As it turns out, "how do you quit vim" is one of the oldest memes among programmers, predating even the popularity of memes.
-* See examples [here](https://teejungle.net/products/vim-i-wish-i-knew-how-to-quit-you-short-sleeve-unisex-t-shirt), [here](https://www.reddit.com/r/linuxmasterrace/comments/p5eub5/guys_i_think_i_finally_learned_how_to_quit_vim/), [here](https://twitter.com/davidbombal/status/1352602644125106176) 
+* See examples [here](https://teejungle.net/products/vim-i-wish-i-knew-how-to-quit-you-short-sleeve-unisex-t-shirt), [here](https://www.reddit.com/r/linuxmasterrace/comments/p5eub5/guys_i_think_i_finally_learned_how_to_quit_vim/), [here](https://twitter.com/davidbombal/status/1352602644125106176), [here](https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/)
 
 But here's the answer:
 * First press the escape key (in case you are in insert mode)

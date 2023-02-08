@@ -305,6 +305,11 @@ But here's the answer:
 * OR: if you just want to quit without saving, use *q!* (that means quit! no saving!)
 
 
+This animation illustrates quitting vim: once with `:wq` to save, and again with `:q!` to exit without saving:
+
+![quit-vim](https://user-images.githubusercontent.com/1119017/217676430-e981ab1d-81e3-4b7b-93bb-96f883758461.gif)
+
+
 ## Pratice creating a file with vim
 
 If you want to practice creating a file in vim, you can do so in the `lab00-YOUR-USERNAME-HERE` directory.   You can remove files

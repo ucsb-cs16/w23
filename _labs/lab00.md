@@ -61,8 +61,8 @@ If you don't have `CMPSC 16` and `lab00` on Gradescope, please contact the staff
 There are two pieces of "one time setup" that you need to do in order
 to configure your CSIL account to work with git/github:
 
-* <https://ucsb-cs16.github.io/topics/git_csil_configuration/>
-* <https://ucsb-cs16.github.io/topics/github_ssh_keys/>
+* <https://ucsb-cs16.github.io/topics/git_csil_configuration>
+* <https://ucsb-cs16.github.io/topics/github_ssh_keys>
 
 
 That's it for preliminaries!   If everything above is sorted, we're ready to get started.

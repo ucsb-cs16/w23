@@ -293,6 +293,20 @@ To create or make changes to a file (let's say it's called "filename.cpp"), you'
 	$ vim filename.cpp
 ```
 
+## How do you exit vim?
+
+As it turns out, "how do you exit vim" is one of the oldest memes among programmers, predating even the popularity of memes.
+* See examples [here](https://teejungle.net/products/vim-i-wish-i-knew-how-to-quit-you-short-sleeve-unisex-t-shirt), [here](https://www.reddit.com/r/linuxmasterrace/comments/p5eub5/guys_i_think_i_finally_learned_how_to_quit_vim/), [here](https://twitter.com/davidbombal/status/1352602644125106176) 
+
+But here's the answer:
+* First press the escape key (in case you are in insert mode)
+* Then type the colon character (*:*).  This should make the cursor jump to the bottom of the screen
+* Then, type *wq* if you want to save and quit (*w* stands for write, which is how you save, and q stands for quit)
+* OR: if you just want to quit without saving, use *q!* (that means quit! no saving!)
+
+
+## Pratice creating a file with vim
+
 If you want to practice creating a file in vim, you can do so in the `lab00-YOUR-USERNAME-HERE` directory.   You can remove files
 that you no longer want (e.g. ones you create for practice), with the `rm` command, e.g.
 

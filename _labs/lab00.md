@@ -174,8 +174,8 @@ As you can see, there are two buttons, labelled HTTPS and SSH.  Try clicking on 
 
 | When you click this button | Then the URL should look like this | Which one do we want? |
 |----------------------------|------------------------------------|-----------------------|
-| `HTTPS` | `https://github.com/ucsb-cs16-w23/lab00-AvishekDe.git` | NOT this | 
-| `SSH`   |  `git@github.com:ucsb-cs16-w23/lab00-AvishekDe.git` | THIS |
+| `HTTPS` | `https://github.com/ucsb-cs16-w23/lab00-AvishekDe.git` | <span>NOT this</span>{: .label .label-red } | 
+| `SSH`   |  `git@github.com:ucsb-cs16-w23/lab00-AvishekDe.git` | THIS{: .label .label-green }  |
 
 Be sure that you click the SSH button and that your URL starts with `git@github.com` and ends with `lab00-YOUR-GITHUB-USERNAME` (e.g. `lab00-cgaucho`) before proceeding.
 

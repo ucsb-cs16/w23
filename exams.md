@@ -5,6 +5,6 @@ nav_order: 9
 description: Information about Exams
 ---
 
-# {{page.title}
+# {{page.title}}
 
 Coming soon

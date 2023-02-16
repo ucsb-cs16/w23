@@ -6,6 +6,8 @@ incremental: true
 title: "CS16 W23"
 baseurl: "/w23"
 
+github_org: ucsb-cs16-w23
+
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/

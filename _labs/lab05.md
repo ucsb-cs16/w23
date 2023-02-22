@@ -7,8 +7,10 @@ due: 2023-03-08 23:59
 prev_odds_and_primes_lab: lab02 
 ---
 
+# {{page.num}} - {{page.desc}}
 
-# Goals of this lab
+
+## Goals of this lab
 
 The goal of this lab is get more practice with iterating through arrays and dynamically allocating memory. Continue to practice code tracing to reason about your code. We request that you DO NOT ask the staff to debug your code. They have been specifically instructed not to debug for you, rather to guide in the process.
 

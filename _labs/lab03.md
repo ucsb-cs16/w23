@@ -7,6 +7,9 @@ assigned: 2023-02-16 14:00
 due: 2023-03-01 23:59
 ---
 
+# {{page.num}} - {{page.desc}}
+
+
 # Collaboration policy
 
 This lab must be completed individually 

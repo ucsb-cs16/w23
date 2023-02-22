@@ -6,8 +6,10 @@ assigned: 2023-02-23 13:00
 due: 2023-03-08 23:59
 ---
 
+# {{page.num}} - {{page.desc}}
 
-# Goals for this lab
+
+## Goals for this lab
 
 By the time you have completed this lab, you should be able to
 

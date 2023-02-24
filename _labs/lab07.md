@@ -1,5 +1,4 @@
 ---
-layout: lab
 num: lab07
 ready: true
 desc: "Recursion"
